@@ -2,7 +2,7 @@ Simple dungeon game made while learning pygame.
 
 All assets are from websites like itch.io.
 
-Game has few bugs i know about just had no time to fix them.
+Game has few bugs i know about just didn't feel like fixing them.
 
 Controls:
 
