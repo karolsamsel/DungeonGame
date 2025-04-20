@@ -1,0 +1,114 @@
+{
+  "waves-data": [
+    {
+      "number": 1,
+      "data": ["Goblin", "Goblin", "Goblin"]
+    },
+    {
+      "number": 2,
+      "data": ["Goblin", "Goblin", "SmallSkeleton"]
+    },
+    {
+      "number": 3,
+      "data": ["Goblin", "Goblin", "Goblin", "Goblin"]
+    },
+    {
+      "number": 4,
+      "data": ["Goblin", "Goblin", "SmallSkeleton", "SmallSkeleton"]
+    },
+    {
+      "number": 5,
+      "data": ["Goblin", "Skeleton", "SmallSkeleton", "SmallSkeleton"]
+    },
+    {
+      "number": 6,
+      "data": [
+        "SmallSkeleton",
+        "SmallSkeleton",
+        "Skeleton",
+        "SmallSkeleton",
+        "SmallSkeleton"
+      ]
+    },
+    {
+      "number": 7,
+      "data": [
+        "Goblin",
+        "Goblin",
+        "Skeleton",
+        "Skeleton",
+        "Goblin",
+        "Goblin",
+        "Goblin",
+        "Goblin"
+      ]
+    },
+    {
+      "number": 8,
+      "data": [
+        "Goblin",
+        "Goblin",
+        "Goblin",
+        "Skeleton",
+        "SmallSkeleton",
+        "SmallSkeleton"
+      ]
+    },
+    {
+      "number": 9,
+      "data": [
+        "Skeleton",
+        "Skeleton",
+        "Skeleton",
+        "Skeleton",
+        "Goblin",
+        "Goblin",
+        "SmallSkeleton",
+        "SmallSkeleton"
+      ]
+    },
+    {
+      "number": 10,
+      "data": ["DemonSlime"]
+    },
+    {
+      "number": 11,
+      "data": [
+        "EvilEye",
+        "EvilEye",
+        "SmallSkeleton",
+        "SmallSkeleton",
+        "SmallSkeleton"
+      ]
+    },
+    {
+      "number": 12,
+      "data": [
+        "Necromancer",
+        "SmallSkeleton",
+        "SmallSkeleton",
+        "EvilEye",
+        "EvilEye",
+        "EvilEye"
+      ]
+    },
+    {
+      "number": 13,
+      "data": ["Necromancer", "Necromancer", "Skeleton", "SmallSkeleton"]
+    },
+    {
+      "number": 14,
+      "data": ["Necromancer", "EvilEye", "EvilEye", "NightBorne"]
+    },
+    {
+      "number": 15,
+      "data": [
+        "NightBorne",
+        "Skeleton",
+        "EvilEye",
+        "SmallSkeleton",
+        "SmallSkeleton"
+      ]
+    }
+  ]
+}
